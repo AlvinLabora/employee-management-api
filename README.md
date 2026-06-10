@@ -1,18 +1,17 @@
 # Employee Management API
 
-Technologies:
+Spring Boot CRUD practice project.
+
+Tech Stack:
 - Java 8
 - Spring Boot
-- Spring Data JPA
 - MySQL
-- Maven
+- JPA
 
 Features:
-- Create Employee
-- Get All Employees
-- Get Employee By ID
-- Update Employee
-- Delete Employee
+- Create
+- Read
+- Update
+- Delete
 
-Purpose:
-This project was built to strengthen my Spring Boot fundamentals and coding from scratch outside of work.
+Built to practice Spring Boot fundamentals outside of work.
